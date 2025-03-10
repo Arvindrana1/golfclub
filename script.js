@@ -21,7 +21,9 @@ h4all.forEach(function(elem){
   crsr.style.border="0px solid #95C11E";
   crsr.style.backgroundColor="#95C11E";
  });
+
 });
+
 gsap.to("#nav", {
     backgroundColor: "#000",
     duration: 0.5,
